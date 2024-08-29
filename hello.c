@@ -1,8 +1,8 @@
 /**
  * Author: Evan Jones
- * Date: 2024/08/28
+ * Date: 2024/08/30
  *
- * A simple program that states my name in C
+ * A simple program that states my name & major in C
  *
  */
 #include <stdlib.h>
@@ -11,5 +11,6 @@
 int main(int argc, char **argv) {
 
   printf("Evan Jones\n");
+  printf("Computer Engineering\n");
 
 }
