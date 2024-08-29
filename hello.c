@@ -15,4 +15,6 @@ int main(int argc, char **argv) {
 
   printf("Carter Lanka\n");
   printf("Electrical Engineering\n");
+
+  return 0;
 }
